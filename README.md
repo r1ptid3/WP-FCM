@@ -6,7 +6,7 @@ Below will be described all important steps to setup Firebase Cloud Messaging in
 
 # Tests
 - You can check how it works here: https://wp-fcm.mekhtiev.pro/
-- Allow notifications from website with you browser on desktop or any android device
+- Allow notifications from website with you browser on desktop or any android device ( iOS doesn't support Web Push Notification )
 - Enter to author account with following credentials:
 
 <br/>
